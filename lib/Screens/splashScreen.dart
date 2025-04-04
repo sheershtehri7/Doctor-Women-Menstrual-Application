@@ -67,14 +67,6 @@ class _SplashScreenState extends State<SplashScreen>
                       // Adjust width as needed
                       // fit: BoxFit.cover,
                     ),
-                    Container(
-                      height: 20,
-                      child: Image.asset(
-                        'assets/tg.png',
-                        // Adjust width as needed
-                        // fit: BoxFit.cover,
-                      ),
-                    ),
 
                     // SizedBox(height: 10),
                     // RichText(
