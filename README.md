@@ -1,16 +1,31 @@
-# trustingbrains_assignment
+# 👩‍⚕️ Doctor Women Menstrual Application
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Google & Apple Sign-In (with phone number input)
+- 📱 Responsive UI using `GoogleFonts` and custom `AppColors`
+- ☁️ Firebase Authentication & Firestore Integration
+- 🏠 Beautiful Home Page with Logout functionality
+- 🔄 Smooth navigation and session management
+- 💬 Toast notifications for feedback
+- 🔢 OTP input support with auto focus behavior
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- **Firebase (Auth + Firestore)**
+- **Google Sign-In**
+- **Apple Sign-In**
+- **Google Fonts**
+- **Cloud Firestore**
+- **Fluttertoast**
+
+---
+
+## 📦 Folder Structure
+
