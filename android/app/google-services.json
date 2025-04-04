@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847855917113",
+    "project_id": "trustingbrains-e3b6d",
+    "storage_bucket": "trustingbrains-e3b6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847855917113:android:b04c6c160c66a4b87e95e8",
+        "android_client_info": {
+          "package_name": "com.example.trustingbrains_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5asaXUC7VZYK8XZVPz9JgXJoKIF5gujQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
